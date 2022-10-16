@@ -1,8 +1,8 @@
 {
-        "name": "Queen-MD",
-	"description": "Queen-MD WhatsApp Bot Using Lib Baileys",
+        "name": "SACHI-MD-WA-BOT",
+	"description": "SACHI-MD-WA-BOT WhatsApp Bot Using Lib Baileys",
 	"repository": "https://github.com/DarkWinzo/Queen-MD",
-	"logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
+	"logo": "https://i.imgur.com/XHhlqtK.jpeg",
 	"keywords": ["multi-device","Queen-MD","DarkWinzo"],
   "stack": "container",
   "addons": [{
