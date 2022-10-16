@@ -17,7 +17,7 @@
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
         "required": true
       },
-		"SESSION_ID": {
+		"QR SESSION_ID": {
 			"description": "Add your session id heren which you got after scanning the QR",
 			"required": false,
 			"value": ""
